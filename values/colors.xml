@@ -3,6 +3,7 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <coler name="dummy">
     <color name="blue">#99ffff</color>
     <color name="X">#66ffc2</color>
 </resources>
